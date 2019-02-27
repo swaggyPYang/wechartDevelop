@@ -1,0 +1,16 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#ffccff",
+    "navigationBarTitleText": "swaggyP",
+    "navigationBarTextStyle":"white",
+    "backgroundColor":"#ffccff"
+  }
+}
