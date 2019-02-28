@@ -11,6 +11,6 @@
     <text class="user-motto">{{motto}}</text>
     <map id="myMap" show-location />
     <button type="primary" bindtap="moveToLocation">移动位置</button>
-    <button type="primary" bindtap="markertap">返回位置</button>
+    <button type="primary" bindtap="markertap">停止</button>
   </view>
 </view>
